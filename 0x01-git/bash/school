@@ -1,1 +1,3 @@
-echo "School"#!/bin/bsh
+#!/bin/bash
+echo "alx school is cool!"
+echo "alx school"
